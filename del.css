@@ -1,0 +1,38 @@
+.del{
+    padding-top: 25px;
+    margin-top: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    font-family: Helvetica, sans-serif, Times, serif;
+    color: black;
+    margin-bottom: 50px;
+    font-size: 30px;
+  }
+body{
+    background-image: url("photos/farmer.jpg");
+    
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .a{
+    
+    margin-top: 50px;
+    border-radius: 20PX;
+    opacity: 85%;
+    width:50%;
+  }
+
+  .b{
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+
+    padding-left: 30px;
+
+     margin-top: 20px;
+     margin-bottom: 20px;
+     
+  }

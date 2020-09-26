@@ -1,0 +1,34 @@
+body{
+    background-image: url("photos/farmer.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .add{
+    text-align: center;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-bottom: 50px;
+    font-size: 40px;
+  }
+
+  .b{
+     
+      padding-top: 10px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      opacity:85%;
+      border-radius: 3%;
+      width:60%;
+     
+  }
+
+  .a{
+   padding-left: 8%;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   padding-bottom: 20px;
+  }

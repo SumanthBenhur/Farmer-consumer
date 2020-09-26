@@ -1,0 +1,38 @@
+
+html{
+    
+    height: 100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+body{
+    background-color: plum;
+    height: 100%;
+    background-image: url("photos/11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    object-fit: initial;
+}
+
+
+
+
+.total{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-top: 50px;
+    opacity: 0.9;
+    font-weight: bold;
+    color:black;
+}
